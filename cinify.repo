@@ -1,0 +1,7 @@
+[cinify-gate]
+name=cinify Gate (stable)
+baseurl=https://cinify.github.io/cinify-gate-installer/rpm/stable/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://cinify.github.io/cinify-gate-installer/cinify.asc

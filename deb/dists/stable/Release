@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 03 Nov 2026 14:00:01 +0000
+Description: cinify Gate packages (stable)
+Label: cinify Gate
+Origin: cinify
+Suite: stable
+MD5Sum:
+ cac3b2e83f74a37332598bf30bfb24c0             1122 Release
+ 872c5ba8b186c644a1a0f0396a25e585              949 main/binary-amd64/Packages
+ 83ed4fbf548952a17adb1ef9c20f90fd              639 main/binary-amd64/Packages.gz
+SHA1:
+ 9b449c88ef349ab93dbae61577ef598e0c847062             1122 Release
+ 5ed6f2594f76217d58b45228e0ed2043d7773b87              949 main/binary-amd64/Packages
+ e26c19c561f8d07026ca39bf80de371d72a7624b              639 main/binary-amd64/Packages.gz
+SHA256:
+ fb1b6e21c7d81367fc0a91b8a8b24d41e4b6f5ef6fb45199ad529752a5bcaf83             1122 Release
+ 51949073fa5d0e5b2f7e6ba4b3360216064a94dd1312f9f04336b911537c995d              949 main/binary-amd64/Packages
+ 18e0648bf57f69e71a2e70dcdd892a24df8dd3092a97f42014c5509e75d9c925              639 main/binary-amd64/Packages.gz
+SHA512:
+ 13c766368a7adb6f8e9d98a5309310569831ded3d9569a10298bd339ad89a16a0f2c46f4af8dff8699d13e8e960e87263a066c8aad41fe3a42b2f674ee163c45             1122 Release
+ f64ceb616822122d010cf34067b85166cece09c969cc25dbb92fde96e636a89f05841d6a15834ea848da3d4984a4c4e5acc3c693fc20daff9d5a90f62df2bdc5              949 main/binary-amd64/Packages
+ 5bb737a51ff14c334995800bf6331d056fd638704c5194849b138e801af5c0c874ade7258ae5a4111781d737729e7316433110d6caa46203dd2fdd9e9baf23da              639 main/binary-amd64/Packages.gz

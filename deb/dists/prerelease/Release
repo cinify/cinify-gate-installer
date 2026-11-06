@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: prerelease
+Components: main
+Date: Fri, 06 Nov 2026 12:55:58 +0000
+Description: cinify Gate packages (prerelease)
+Label: cinify Gate
+Origin: cinify
+Suite: prerelease
+MD5Sum:
+ 8444a622cf1324017ebaa279f834719b             1506 Release
+ f87c7d197a4f4d3332796b5c3ccb12e5             2859 main/binary-amd64/Packages
+ d8818f40758119effb1c0ad98052d7cb             1035 main/binary-amd64/Packages.gz
+SHA1:
+ a812f0c5693ef10d6c0fe447f95a972ae97ba2d9             1506 Release
+ c4a8d3ee1689ba864250c700e2a27eb097886e9a             2859 main/binary-amd64/Packages
+ 1551de21fdd887be3e1e4fe8dd31a6015374c805             1035 main/binary-amd64/Packages.gz
+SHA256:
+ a2dcb6b4f7f5f3726761928e4aa85d530e3ab02d429d2f8e3cff58ff0f35f7dc             1506 Release
+ a770d914be7edca305c983b49173563c1a0105e9f3bf85b8943b3eb8fa4faea7             2859 main/binary-amd64/Packages
+ b6b49b1bf890924742a62280779f2655d25fcfd5d691d5d59e19fad183865dbe             1035 main/binary-amd64/Packages.gz
+SHA512:
+ 092c3996236277a306570e611a044f39c15dada3cb8caf5d41fd1d7c7abd49576b7d47f1959de258f1f80c0e1384454ce3835ae56860042936197c75ef77d64c             1506 Release
+ 01be7e491bebad24f227e73e006669d81c60f17a7487826a788c3d3afa0df55e3d85830bada06b442dbfac0f3f62c67064d7399bc96bb81b8cf983abbbda0a48             2859 main/binary-amd64/Packages
+ 4cf6e832ed20401a1637b4592523ab05bb29a5edcf5c766a7473a96ad92d6d46f792b2a3242f1ce8abf95fbe7eef8fbc5319781672db5b09004bcd8fc6588a94             1035 main/binary-amd64/Packages.gz
