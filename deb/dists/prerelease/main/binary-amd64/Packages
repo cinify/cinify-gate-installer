@@ -1,0 +1,63 @@
+Package: cinify-gate
+Architecture: amd64
+Version: 3.52.0.0-1
+Priority: optional
+Section: net
+Maintainer: cinify GmbH <support@cinify.io>
+Installed-Size: 102652
+Depends: libicu70 | libicu71 | libicu72 | libicu73 | libicu74 | libicu75 | libicu76 | libicu77 | libicu78 | libicu79 | libicu80 | libicu81 | libicu82 | libicu83 | libicu84 | libicu85 | libicu86 | libicu87 | libicu88 | libicu89 | libicu90 | libicu91 | libicu92 | libicu93 | libicu94 | libicu95 | libicu96 | libicu97 | libicu98 | libicu99, libssl3t64 | libssl3, ca-certificates
+Recommends: unixodbc
+Filename: pool/prerelease/c/cinify-gate/cinify-gate_3.52.0.0-1_amd64.deb
+Size: 44573594
+MD5sum: ab53e962d58c91b9bc8373dbcb503a52
+SHA1: 5d18e3e775387ebde20bb6ac2b83609dc4b78693
+SHA256: f25dcddb9b95e44e5821d1a5680b782d1c88ef481140a95639da2b158305db0a
+SHA512: 0833d5aaf8c6ecf04416e3aa7662fd82013525f4430e5935bb8041f6d7a6d526b23309fd78691b6d7cd3d63a8f3207e1c5054cd39989b30ea8ba4e8dde3dd472
+Homepage: https://cinify.io
+Description: cinify Gate - local machine agent for the cinify cloud platform.
+ Runs scheduled tasks (SQL queries, file reads, CSV/XLSX exports) on the customer machine,
+ executes commands issued by the cinify cloud and reports status back to it.
+License: Proprietary
+
+Package: cinify-gate
+Architecture: amd64
+Version: 3.53.0.0-1
+Priority: optional
+Section: net
+Maintainer: cinify GmbH <support@cinify.io>
+Installed-Size: 102687
+Depends: libicu70 | libicu71 | libicu72 | libicu73 | libicu74 | libicu75 | libicu76 | libicu77 | libicu78 | libicu79 | libicu80 | libicu81 | libicu82 | libicu83 | libicu84 | libicu85 | libicu86 | libicu87 | libicu88 | libicu89 | libicu90 | libicu91 | libicu92 | libicu93 | libicu94 | libicu95 | libicu96 | libicu97 | libicu98 | libicu99, libssl3t64 | libssl3, ca-certificates
+Recommends: unixodbc
+Filename: pool/prerelease/c/cinify-gate/cinify-gate_3.53.0.0-1_amd64.deb
+Size: 44592918
+MD5sum: 2488ba19c500fa60ca79226727a946c6
+SHA1: dc397a57e2e2913071efef2c7cbf6ce37e1b651f
+SHA256: 73f77f8a5a2bb7ce7a9f1a9cab04a09e8b07df251fa962536149081ff89e2b79
+SHA512: 0fd7ddb7aea6944f98529f9c3eb0535f21bf958af20bfe2e6aeb35f6c75e436c7d576e4e77a63059aaabdc25a4a85c0a3aa45be310d3f840c14bd37502115000
+Homepage: https://cinify.io
+Description: cinify Gate - local machine agent for the cinify cloud platform.
+ Runs scheduled tasks (SQL queries, file reads, CSV/XLSX exports) on the customer machine,
+ executes commands issued by the cinify cloud and reports status back to it.
+License: Proprietary
+
+Package: cinify-gate
+Architecture: amd64
+Version: 3.53.1.0-1
+Priority: optional
+Section: net
+Maintainer: cinify GmbH <support@cinify.io>
+Installed-Size: 102687
+Depends: libicu70 | libicu71 | libicu72 | libicu73 | libicu74 | libicu75 | libicu76 | libicu77 | libicu78 | libicu79 | libicu80 | libicu81 | libicu82 | libicu83 | libicu84 | libicu85 | libicu86 | libicu87 | libicu88 | libicu89 | libicu90 | libicu91 | libicu92 | libicu93 | libicu94 | libicu95 | libicu96 | libicu97 | libicu98 | libicu99, libssl3t64 | libssl3, ca-certificates
+Recommends: unixodbc
+Filename: pool/prerelease/c/cinify-gate/cinify-gate_3.53.1.0-1_amd64.deb
+Size: 44592944
+MD5sum: b4de0a7bddc162bfdd431e96741839cb
+SHA1: 068c4052e0c01483044c5193cbdd065a1a27885e
+SHA256: a85fa9fe81bdb71c212cd50a939733e5f2d5ac2345fc807207c29c742dfe6e9a
+SHA512: 2de29fef89a04946cf47cf6b2ce6d9d2bc85c2d7c45c75c333319987710fd0bbe3a2760a16522a796b238d90542d406aabcf9bedfb475ccac4fc770bd85c8954
+Homepage: https://cinify.io
+Description: cinify Gate - local machine agent for the cinify cloud platform.
+ Runs scheduled tasks (SQL queries, file reads, CSV/XLSX exports) on the customer machine,
+ executes commands issued by the cinify cloud and reports status back to it.
+License: Proprietary
+

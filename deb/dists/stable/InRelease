@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 19 Nov 2026 17:43:22 +0000
+Description: cinify Gate packages (stable)
+Label: cinify Gate
+Origin: cinify
+Suite: stable
+MD5Sum:
+ dda169fd19770a1b199c7a57b14e234a             1494 Release
+ 2cf412b7270a52a83a042cd374fd5f70             3133 main/binary-amd64/Packages
+ 9a1e04354a05703bcc529d53658e23ad             1114 main/binary-amd64/Packages.gz
+SHA1:
+ 4991164f7ca53f00d7791bc36858333567626d57             1494 Release
+ 39086212f3512a27fb2f237d7a4851b0035c4cd5             3133 main/binary-amd64/Packages
+ 99a520b170e45bdceae3335487fb6afb8abae25f             1114 main/binary-amd64/Packages.gz
+SHA256:
+ ad2ccb5f8325eb4a92da88f69ed1aa5d8133580e882710171fafdd79a2ba08fd             1494 Release
+ 1545e4f30f98587c1b0f6a59ff046fa603a5bfda676770760cd093a229c8b19a             3133 main/binary-amd64/Packages
+ 488965d5f3435e460c7bfc83a86ea235eeb1f0ec9bcf8da937f857f5bfbbe3d2             1114 main/binary-amd64/Packages.gz
+SHA512:
+ c6f69b6aee24619e2098961fb0cbd1da3f4d072053d73aaf18c541350cf4d4639a59c42361b3c1e5d5aeeec27db257b5ef433e4767e2ef1ab253a5ac14cff637             1494 Release
+ 6afacbb4b6f5559b63ca69aba65e9ecf42493c3eea9f5c53be55f58295302302b19d56b51ccd18551e7bbe5c0a31896615c4ed2cc3a4f181fa4d1069cf0b1d85             3133 main/binary-amd64/Packages
+ a89daf8eafdf90506f9b21295a7f75170616ff72c5931174eec7aad9bb093f308f2e97962a79156ccdc7f4e1878c63713068bd5314b87ef0251f7f2cfae89766             1114 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEZQNDoxx76dUcdy13FvydBXScG40FAmr/NToACgkQFvydBXSc
+G43dOg//UnMxUePyC9s6THTKm9+eYxdWfICIhNfG9CoeX9+z/WlHMCj/mDoH1ZhE
+t0Nx9qQu7VmGav4Q1fAsgVCVU+wmTInS/v6YcNeQjDGFCt+AhTkCOkyRW+4UT4BB
+nIzZ3QubHBPXYW2sRVu20Vlb5aJNF+ShIKoLUCLP/3azKKYFRao2rkdfI0F6Tk7p
+Ev8Lsrxf0d+IQP5Y12/0D9GEBUWcZGbds8gcGKET9Z+1B8OyqelhZa/g2nRTxnk5
+VgLeRWj5IyAyxqNkJgNge+ap8Ql9Rqx0HonAuW1UyGPl+szRdR48JOMr5hIlKIQB
+Khb7TgTt9fyLWJofRG5k+VhWdO5xYpLEBz4aYhBe86t7zmqqsksB+pyH3Hk3KPN8
+30IUT2njP3t46HTypbWDzHsnWQSduxR1F8vORghJQIZpjY6qE6dEM/Sai2xr4iwa
+EVy9pfrio0D6KH57ch3INDv8fVZEGI0ICrOSxEaayi3b4VbJ8t70AyybzPP9PQeH
+a2Qzdhjibp0emU5O78sRjAPJ1FjSZLUjoA/709f2s0RdBnreElMVx/GTjDef6AaF
+D5OgA9faGhZZaHNKcjtjIqu284kznxgwY2uDaDxFNwbnFb+Qhd+YdW1sJ1VNeZOV
+fg0l3hZcqkiMJhcfoFRj3SL24dvlffW1fgQbI33FIUwtK+GFFhc=
+=dgKM
+-----END PGP SIGNATURE-----
